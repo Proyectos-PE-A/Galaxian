@@ -51,6 +51,7 @@ namespace RaskanoidGame
             LeftKey = InputManager.IsKeyPressed("Left");
             RightKey = InputManager.IsKeyPressed("Right");
             SpaceKey = InputManager.IsKeyPressed("Space");
+            SpaceKey = InputManager.IsKeyPressed("peo");
 
         }
 
